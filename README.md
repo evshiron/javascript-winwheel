@@ -1,4 +1,4 @@
-# javascript-winwheel
+# winwheel.js
 Create spinning prize wheels on HTML canvas with Winwheel.js
 
 ## Description
@@ -17,13 +17,17 @@ Winwheel.js Features Include:
 * Fully commented source code. Plenty of tutorials and other documentation.
 * Winwheel.js is free to use with an open source license.
 
-## Example
+## Installation
+`winwheel.js` is a CommonJS fork of [zarocknz/javascript-winwheel](https://github.com/zarocknz/javascript-winwheel).
+
 ```bash
-npm install evshiron/javascript-winwheel --save
+npm install winwheel.js --save
 ```
 
+
+## Example
 ```javascript
-import * as winwheel from 'javascript-winwheel';
+import * as winwheel from 'winwheel.js';
 
 const theWheel = new winwheel.Winwheel({
     'numSegments'    : 4,
@@ -50,13 +54,4 @@ See the /examples folder for examples of some of the types of things you can cre
 Please visit http://dougtesting.net/winwheel/docs to see a complete set of tutorials on how to use Winwheel.js as well as other documentation such as class references.
 
 ## Maintainer
-Douglas McKechie https://github.com/zarocknz
-
-## Please note
-I am not planning to do any further work on this library as my day job keeps me very busy and after 7 years of Winwheel I would rather spend
-any spare time I do have for personal coding on other projects.
-
-So this means if you would like a version of Winwheel.js for your current JavaScript framework of choice its up to you or others in the community
-to create it. If you create one perhaps open an Issue with the details so others can find and use it. Thanks.
-
-You are welcome to ask questions using the Issues feature of Github, but please don't be offended if I take quite a long time to respond to them. To be honest its probably quicker to ask the Stackoverflow community for help https://stackoverflow.com/search?tab=newest&q=Winwheel
+* Douglas McKechie https://github.com/zarocknz
