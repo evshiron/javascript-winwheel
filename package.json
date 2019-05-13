@@ -1,6 +1,6 @@
 {
-  "name": "winwheel.js",
-  "version": "1.0.0",
+  "name": "@evshiron/winwheel.js",
+  "version": "1.0.1",
   "description": "Create spinning prize wheels on HTML canvas with Winwheel.js",
   "main": "Winwheel.js",
   "directories": {

@@ -21,13 +21,13 @@ Winwheel.js Features Include:
 `winwheel.js` is a CommonJS fork of [zarocknz/javascript-winwheel](https://github.com/zarocknz/javascript-winwheel).
 
 ```bash
-npm install winwheel.js --save
+npm install @evshiron/winwheel.js --save
 ```
 
 
 ## Example
 ```javascript
-import * as winwheel from 'winwheel.js';
+import * as winwheel from '@evshiron/winwheel.js';
 
 const theWheel = new winwheel.Winwheel({
     'numSegments'    : 4,
