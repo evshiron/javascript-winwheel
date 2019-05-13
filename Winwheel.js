@@ -25,7 +25,7 @@
     SOFTWARE.
 */
 
-const TweenMax = require('gsap/TweenMax');
+const TweenMax = require('gsap/TweenMax').default;
 
 // ====================================================================================================================
 // The constructor for the WinWheel object, a JSON-like array of options can be passed in.
