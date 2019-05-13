@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/evshiron/javascript-winwheel/issues"
   },
-  "homepage": "https://github.com/evshiron/javascript-winwheel#readme"
+  "homepage": "https://github.com/evshiron/javascript-winwheel#readme",
+  "dependencies": {
+    "gsap": "^2.1.2"
+  }
 }

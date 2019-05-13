@@ -18,8 +18,14 @@ Winwheel.js Features Include:
 * Winwheel.js is free to use with an open source license.
 
 ## Example
+```bash
+npm install evshiron/javascript-winwheel --save
+```
+
 ```javascript
-let theWheel = new Winwheel({
+import * as winwheel from 'javascript-winwheel';
+
+const theWheel = new winwheel.Winwheel({
     'numSegments'    : 4,
     'segments'       :
     [
