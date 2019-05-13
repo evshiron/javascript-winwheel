@@ -1,0 +1,22 @@
+{
+  "name": "javascript-winwheel",
+  "version": "1.0.0",
+  "description": "Create spinning prize wheels on HTML canvas with Winwheel.js",
+  "main": "Winwheel.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evshiron/javascript-winwheel.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evshiron/javascript-winwheel/issues"
+  },
+  "homepage": "https://github.com/evshiron/javascript-winwheel#readme"
+}
